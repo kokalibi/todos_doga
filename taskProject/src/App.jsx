@@ -33,7 +33,7 @@ function App() {
             <div className="mt-5">
               <h2>Rólunk</h2>
               <p>Ezt az alkalmazást a backend és frontend gyakorlás keretében készítettem.</p>
-              <p>Fejlesztő: [Saját neved]</p>
+              <p></p>
             </div>
           } />
           
