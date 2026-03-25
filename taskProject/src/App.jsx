@@ -32,7 +32,17 @@ function App() {
           <Route path="/about" element={
             <div className="mt-5">
               <h2>Rólunk</h2>
-              <p>Ezt az alkalmazást a backend és frontend gyakorlás keretében készítettem.</p>
+              <p>Kedves Látogató! A Teleki Blanka a 19. században mert nagyot álmodni... 
+                        Mezőtúron 1897 szeptemberében megnyitotta kapuit egy iskola, 
+                        amely kifejezetten a nőnevelés úttörőjének számított.
+                    </p>
+                    <h5>💡 Érdekesség a Blackjack világából:</h5>
+                    <p className="font-italic mb-0">
+                            Tudtad, hogy a Blackjack az egyetlen kaszinójáték, ahol a játékosnak 
+                            matematikailag esélye van hosszú távon legyőzni a házat? 
+                            A "lapszámolás" technikájával a játékos nyomon követheti a pakliban maradt 
+                            magas és alacsony lapok arányát, így stratégiailag előnybe kerülhet.
+                        </p>
               <p></p>
             </div>
           } />
