@@ -24,4 +24,4 @@ app.use(function(req, res) {
   res.status(404).json({ error: "Az erőforrás nem található" }); 
 });
 
-module.exports = app;
+module.exports = app; 
